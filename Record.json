@@ -1,0 +1,905 @@
+[   
+    {
+    "id": "3001527",
+    "type": "restaurant",
+    "name": "Seasons - Radisson Blu",
+    "url": "https://www.zomato.com/coimbatore/seasons-radisson-blu-peelamedu?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/7/3001527/5669893be3ab68c6be6e573d488b11bb_featured_v2.jpg?output-format=webp",
+    "subtitleData":
+     {
+      "cuisines": 
+      [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chinese/",
+          "name": "Chinese"
+        }
+      ],
+      "locality":
+      {
+        "text": "Radisson Blu, Peelamedu, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/peelamedu-restaurants"
+      }
+    },
+    "proOfferText": "Flat 25% OFF",
+    "rating":
+     {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.1",
+      "rating_text": "4.1",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "229",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.2",
+          "reviewCount": "205",
+          "reviewTextSmall": "205 Reviews",
+          "subtext": "205 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.2",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "24",
+          "reviewTextSmall": "24 Reviews",
+          "subtext": "24 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 25,
+      "welcome_offer": false,
+      "gold_offer": true,
+      "text": "Flat",
+      "offerValue": "25% OFF",
+      "isGoldIcon": true
+    }
+  },
+  {
+    "id": "3000008",
+    "type": "restaurant",
+    "name": "Pavilion - The Residency Hotel",
+    "url": "https://www.zomato.com/coimbatore/pavilion-the-residency-hotel-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/8/3000008/767bd7af3b8c801bfb6541f8ba2f8112.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": {
+        "text": "The Residency Hotel, Avinashi Road, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "223",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.4",
+          "reviewCount": "223",
+          "reviewTextSmall": "223 Reviews",
+          "subtext": "223 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.4",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "grey",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "3001287",
+    "type": "restaurant",
+    "name": "RHR Restaurant",
+    "url": "https://www.zomato.com/coimbatore/rhr-restaurant-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/2/3001012/dc6e7280e02b6be39243d9380a4c37f0.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMThcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chettinad/",
+          "name": "Chettinad"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/street-food/",
+          "name": "Street Food"
+        }
+      ],
+      "locality": {
+        "text": "Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.0",
+      "rating_text": "4.0",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "7,495",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "3.7",
+          "reviewCount": "65",
+          "reviewTextSmall": "65 Reviews",
+          "subtext": "65 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "3.7",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "600"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "7,430",
+          "reviewTextSmall": "7,430 Reviews",
+          "subtext": "7,430 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "3001350",
+    "type": "restaurant",
+    "name": "Geetha Canteen",
+    "url": "https://www.zomato.com/coimbatore/geetha-canteen-gandhipuram?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/0/3001350/4db6deead81972f48b155d381d4fd5aa.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chinese/",
+          "name": "Chinese"
+        }
+      ],
+      "locality": {
+        "text": "Gandhipuram, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/gandhipuram-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "6,963",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "468",
+          "reviewTextSmall": "468 Reviews",
+          "subtext": "468 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "6,495",
+          "reviewTextSmall": "6,495 Reviews",
+          "subtext": "6,495 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "3000043",
+    "type": "restaurant",
+    "name": "Latitude - Vivanta Coimbatore",
+    "url": "https://www.zomato.com/coimbatore/latitude-vivanta-coimbatore-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/3/3000043/57f876e2164929d84a94a6e09e286416.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Vivanta Coimbatore, Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.1",
+      "rating_text": "4.1",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "147",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.1",
+          "reviewCount": "147",
+          "reviewTextSmall": "147 Reviews",
+          "subtext": "147 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.1",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "grey",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "3001338",
+    "type": "restaurant",
+    "name": "Shree Anandhaas",
+    "url": "https://www.zomato.com/coimbatore/shree-anandhaas-gandhipuram?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/2/3000002/e26d3e0722a73c439d8201935a40f65d.jpg?output-format=webp",
+    "subtitleData":
+     {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/sichuan/",
+          "name": "Sichuan"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        }
+      ],
+      "locality":
+       {
+        "text": "Gandhipuram, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/gandhipuram-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2,793",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.0",
+          "reviewCount": "85",
+          "reviewTextSmall": "85 Reviews",
+          "subtext": "85 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.0",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.4",
+          "reviewCount": "2,708",
+          "reviewTextSmall": "2,708 Reviews",
+          "subtext": "2,708 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.4",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": 3000293,
+    "type": "chain",
+    "name": "Sree Annapoorna Sree Gowrishankar",
+    "url": "https://www.zomato.com/coimbatore/restaurants/sree-annapoorna-sree-gowrishankar-2?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/3/3000293/37c0069f0e939b4444a97bb9a15b2775.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": {
+        "text": "Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+
+    },
+    "proOfferText": "",
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.2",
+        "rating_text": "4.2",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "2,793",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+    "subtitle": "View all 2 outlets"
+  },
+  {
+    "id": "3002333",
+    "type": "restaurant",
+    "name": "WelcomCafe Kovai - ITC Hotels",
+    "url": "https://www.zomato.com/coimbatore/welcomcafe-kovai-itc-hotels-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/3/3002333/7ec6b0a99c641d0fc6bb909631ece5cf.jpg?output-format=webp",
+    "subtitleData":
+     {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": 
+      {
+        "text": "Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.8",
+      "rating_text": "3.8",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "75",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "3.8",
+          "reviewCount": "75",
+          "reviewTextSmall": "75 Reviews",
+          "subtext": "75 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "3.8",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "600"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "grey",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": true,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": true
+    }
+  },
+  {
+    "id": "3002334",
+    "type": "restaurant",
+    "name": "HMR",
+    "url": "https://www.zomato.com/coimbatore/welcomcafe-kovai-itc-hotels-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "data:image/jpeg;base64,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",
+    "subtitleData":
+     {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": 
+      {
+        "text": "Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.8",
+      "rating_text": "3.8",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "75",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "3.8",
+          "reviewCount": "75",
+          "reviewTextSmall": "75 Reviews",
+          "subtext": "75 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "3.8",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "600"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "grey",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": true,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": true
+    }
+  },
+  {
+    "id": "3002335",
+    "type": "restaurant",
+    "name": "Hotel Park Elanza",
+    "url": "https://www.zomato.com/coimbatore/welcomcafe-kovai-itc-hotels-race-course?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjDYhKf6B0nprjUno4KhqVDAj_8r9dZccIQ&usqp=CAU",
+    "subtitleData":
+     {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/south-indian/",
+          "name": "South Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/coimbatore/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/coimbatore/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": 
+      {
+        "text": "Race Course, Coimbatore",
+        "url": "https://www.zomato.com/coimbatore/race-course-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.8",
+      "rating_text": "3.8",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "75",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "3.8",
+          "reviewCount": "75",
+          "reviewTextSmall": "75 Reviews",
+          "subtext": "75 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "3.8",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "600"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "grey",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": true,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": true
+    }
+  }
+
+]
